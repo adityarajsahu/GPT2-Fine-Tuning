@@ -1,0 +1,4 @@
+transformers==4.45.1
+torch==2.4.1
+pandas==2.2.3
+transformers[torch]
